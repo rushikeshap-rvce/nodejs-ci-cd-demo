@@ -1,0 +1,24 @@
+{
+  "name": "nodejs-ci-cd-demo",
+  "version": "1.0.0",
+  "description": "Demo of CI/CD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rushikeshap-rvce/nodejs-ci-cd-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rushikeshap-rvce/nodejs-ci-cd-demo/issues"
+  },
+  "homepage": "https://github.com/rushikeshap-rvce/nodejs-ci-cd-demo#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
